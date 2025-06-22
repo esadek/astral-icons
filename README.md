@@ -19,6 +19,13 @@ Icons and colors for Ruff, uv and ty
 | ![uv rectangle](icons/uv-rectangle.svg) | [icons/uv-rectangle.svg](icons/uv-rectangle.svg) |
 | ![uv letter](icons/uv-letter.svg)       | [icons/uv-letter.svg](icons/uv-letter.svg)       |
 
+### ty
+
+| Icon                                    | File                                             |
+| :-------------------------------------- | :----------------------------------------------- |
+| ![ty rectangle](icons/ty-rectangle.svg) | [icons/ty-rectangle.svg](icons/ty-rectangle.svg) |
+| ![ty letter](icons/ty-letter.svg)       | [icons/ty-letter.svg](icons/ty-letter.svg)       |
+
 ## Colors
 
 | Color                                              | Hex       | RGB                  | HSL                  |
