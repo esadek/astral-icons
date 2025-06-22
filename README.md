@@ -14,8 +14,8 @@ Icons and colors for Ruff, uv and ty
 
 ### uv
 
-| Icon                                        | File                                                 |
-| :------------------------------------------ | :--------------------------------------------------- |
+| Icon                                    | File                                             |
+| :-------------------------------------- | :----------------------------------------------- |
 | ![uv rectangle](icons/uv-rectangle.svg) | [icons/uv-rectangle.svg](icons/uv-rectangle.svg) |
 | ![uv letter](icons/uv-letter.svg)       | [icons/uv-letter.svg](icons/uv-letter.svg)       |
 
