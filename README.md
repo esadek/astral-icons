@@ -28,9 +28,9 @@ Icons and colors for Ruff, uv and ty
 
 ## Colors
 
-| Color                                              | Hex       | RGB                  | HSL                  |
-| :------------------------------------------------- | :-------- | :------------------- | :------------------- |
-| ![#261230](https://place-hold.it/24/261230?text=+) | `#261230` | `rgb(38, 18, 48)`    | `hsl(280, 45%, 13%)` |
-| ![#D7FF64](https://place-hold.it/24/D7FF64?text=+) | `#D7FF64` | `rgb(215, 255, 100)` | `hsl(75, 100%, 70%)` |
-| ![#DE5FE9](https://place-hold.it/24/DE5FE9?text=+) | `#DE5FE9` | `rgb(222, 95, 233)`  | `hsl(295, 76%, 64%)` |
-| ![#46EBE1](https://place-hold.it/24/46EBE1?text=+) | `#46EBE1` | `rgb(70, 235, 225)`  | `hsl(176, 80%, 60%)` |
+| Color                                              | Name     | Hex       | RGB                  | HSL                  |
+| :------------------------------------------------- | :------- | :-------- | :------------------- | :------------------- |
+| ![#261230](https://place-hold.it/24/261230?text=+) | galaxy   | `#261230` | `rgb(38, 18, 48)`    | `hsl(280, 45%, 13%)` |
+| ![#D7FF64](https://place-hold.it/24/D7FF64?text=+) | radiate  | `#D7FF64` | `rgb(215, 255, 100)` | `hsl(75, 100%, 70%)` |
+| ![#DE5FE9](https://place-hold.it/24/DE5FE9?text=+) | cosmic   | `#DE5FE9` | `rgb(222, 95, 233)`  | `hsl(295, 76%, 64%)` |
+| ![#46EBE1](https://place-hold.it/24/46EBE1?text=+) | electron | `#46EBE1` | `rgb(70, 235, 225)`  | `hsl(176, 80%, 60%)` |
