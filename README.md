@@ -1,30 +1,30 @@
 # Astral Icons
 
-Icons and colors for Ruff, uv and ty
+Icons, badges and colors for Ruff, uv and ty
 
 ## Icons
 
 ### Ruff
 
-| Icon                                        | File                                                 |
-| :------------------------------------------ | :--------------------------------------------------- |
-| ![ruff rectangle](icons/ruff-rectangle.svg) | [icons/ruff-rectangle.svg](icons/ruff-rectangle.svg) |
-| ![ruff letter](icons/ruff-letter.svg)       | [icons/ruff-letter.svg](icons/ruff-letter.svg)       |
-| ![ruff bolt](icons/ruff-bolt.svg)           | [icons/ruff-bolt.svg](icons/ruff-bolt.svg)           |
+| Icon                                | File                                         |
+| :---------------------------------- | :------------------------------------------- |
+| ![ruff icon](icons/ruff-icon.svg)   | [icons/ruff-icon.svg](icons/ruff-icon.svg)   |
+| ![ruff badge](icons/ruff-badge.svg) | [icons/ruff-badge.svg](icons/ruff-badge.svg) |
+| ![ruff bolt](icons/ruff-bolt.svg)   | [icons/ruff-bolt.svg](icons/ruff-bolt.svg)   |
 
 ### uv
 
-| Icon                                    | File                                             |
-| :-------------------------------------- | :----------------------------------------------- |
-| ![uv rectangle](icons/uv-rectangle.svg) | [icons/uv-rectangle.svg](icons/uv-rectangle.svg) |
-| ![uv letter](icons/uv-letter.svg)       | [icons/uv-letter.svg](icons/uv-letter.svg)       |
+| Icon                            | File                                     |
+| :------------------------------ | :--------------------------------------- |
+| ![uv icon](icons/uv-icon.svg)   | [icons/uv-icon.svg](icons/uv-icon.svg)   |
+| ![uv badge](icons/uv-badge.svg) | [icons/uv-badge.svg](icons/uv-badge.svg) |
 
 ### ty
 
-| Icon                                    | File                                             |
-| :-------------------------------------- | :----------------------------------------------- |
-| ![ty rectangle](icons/ty-rectangle.svg) | [icons/ty-rectangle.svg](icons/ty-rectangle.svg) |
-| ![ty letter](icons/ty-letter.svg)       | [icons/ty-letter.svg](icons/ty-letter.svg)       |
+| Icon                            | File                                     |
+| :------------------------------ | :--------------------------------------- |
+| ![ty icon](icons/ty-icon.svg)   | [icons/ty-icon.svg](icons/ty-icon.svg)   |
+| ![ty badge](icons/ty-badge.svg) | [icons/ty-badge.svg](icons/ty-badge.svg) |
 
 ## Colors
 
