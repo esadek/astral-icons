@@ -30,7 +30,7 @@ Icons, badges and colors for Ruff, uv and ty
 
 | Color                                              | Name     | Hex       | RGB                  | HSL                  |
 | :------------------------------------------------- | :------- | :-------- | :------------------- | :------------------- |
-| ![#261230](https://place-hold.it/24/261230?text=+) | galaxy   | `#261230` | `rgb(38, 18, 48)`    | `hsl(280, 45%, 13%)` |
-| ![#D7FF64](https://place-hold.it/24/D7FF64?text=+) | radiate  | `#D7FF64` | `rgb(215, 255, 100)` | `hsl(75, 100%, 70%)` |
-| ![#DE5FE9](https://place-hold.it/24/DE5FE9?text=+) | cosmic   | `#DE5FE9` | `rgb(222, 95, 233)`  | `hsl(295, 76%, 64%)` |
-| ![#46EBE1](https://place-hold.it/24/46EBE1?text=+) | electron | `#46EBE1` | `rgb(70, 235, 225)`  | `hsl(176, 80%, 60%)` |
+| ![#261230](https://place-hold.it/32/261230?text=+) | galaxy   | `#261230` | `rgb(38, 18, 48)`    | `hsl(280, 45%, 13%)` |
+| ![#D7FF64](https://place-hold.it/32/D7FF64?text=+) | radiate  | `#D7FF64` | `rgb(215, 255, 100)` | `hsl(75, 100%, 70%)` |
+| ![#DE5FE9](https://place-hold.it/32/DE5FE9?text=+) | cosmic   | `#DE5FE9` | `rgb(222, 95, 233)`  | `hsl(295, 76%, 64%)` |
+| ![#46EBE1](https://place-hold.it/32/46EBE1?text=+) | electron | `#46EBE1` | `rgb(70, 235, 225)`  | `hsl(176, 80%, 60%)` |
